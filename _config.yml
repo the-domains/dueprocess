@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7425113709248122
+  lightness: 0.722269388516646
+  rhythmicContrast: 0.7169356017724583
+  saturation: 0.027659112017526577
+cta: {}
+layout_spectrum: 0.4528255704703067
+name: dueprocess
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.8507532955128417

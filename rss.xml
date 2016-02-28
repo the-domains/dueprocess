@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DueProcess]]></title>
+        <description><![CDATA[DueProcess]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 02:52:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Supreme court justice Antonin Scalia dies: legal and political worlds react]]></title>
+            <description><![CDATA[<article><h1>Supreme court justice Antonin Scalia dies: legal and political worlds react</h1><p>Let's hope for a more reasonable Justice for criminal cases</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d68496ea7ab349077e9964ffec1fa352b6c0fa87.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/law/2016/feb/13/supreme-court-justice-antonin-scalia-dead-at-79</link>
+            <guid isPermaLink="false">696ad288-d117-49f2-a97e-6da9ec2cafb2</guid>
+            <pubDate>Sun, 28 Feb 2016 02:52:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

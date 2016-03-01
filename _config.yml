@@ -1,4 +1,19 @@
-analytics: {}
+name: dueprocess
+favicon: null
+layout_spectrum: 0.4528255704703067
+typography_spectrum: 0.8507532955128417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -6,13 +21,11 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7425113709248122
+  brandStrength: 0.4375
   lightness: 0.722269388516646
-  rhythmicContrast: 0.7169356017724583
-  saturation: 0.027659112017526577
-cta: {}
-layout_spectrum: 0.4528255704703067
-name: dueprocess
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.8507532955128417
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose:
+  - name: null
+    item: null
+    url: null

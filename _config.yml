@@ -19,13 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: dueprocess
+name: DueProcess
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
 title: Due Process Matters
+description: Enforce the Constitution against Police Misconduct
 purpose:
   - name: null
     item: null

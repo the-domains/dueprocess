@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b64dbb94-47ce-4945-9094-962c20ed6a53.jpg
 name: DueProcess
 cta:
   domain: null
